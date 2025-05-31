@@ -1,1 +1,2 @@
 # Calculator
+This is a web-based scientific calculator built using HTML, CSS, and JavaScript. It features a sleek, dark-themed user interface with a responsive grid of buttons. The calculator supports basic arithmetic operations (addition, subtraction, multiplication, division), as well as advanced functions like square, square root, reciprocal, percentage, and toggling between positive and negative values. It includes input validation to prevent invalid expressions and displays results dynamically in a read-only input field.
